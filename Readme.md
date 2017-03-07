@@ -23,12 +23,15 @@ If not, check that the plugin is correctly selected in the plugins menu.
 
 Select in the viewport the Static Meshes Actor you want to repair, the click on the button.  
 Info should appear on the debug log.  
+Modified assets will then be marked for save.  
+Once you've clicked, materials will appear mismatched in the viewport. This is just a visual
+artefact and the best way to overcome it is to hit `delete` then undo (`ctrl-Z`). Alternatively,
+you can save and close, then open the project again.
 
 Feel free to report bugs and crashes, I'll look into them.  
 
 By design, this plugin takes materials that are defined on Meshes in the map and applies
 them to the mesh asset. If this is not what you want, I can change it. Just open an issue. 
-
 
 
 
