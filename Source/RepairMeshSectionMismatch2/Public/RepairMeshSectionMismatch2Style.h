@@ -1,4 +1,4 @@
-// Copyright 1998-2016 Epic Games, Inc. All Rights Reserved.
+// Copyright 2017 Exoception SAS. All Rights Reserved.
 #pragma once
 
 #include "SlateBasics.h"
